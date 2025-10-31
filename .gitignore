@@ -1,0 +1,9 @@
+node_modules/
+.next/
+.next.bak
+npm-debug.log
+.env
+.env.local
+.DS_Store
+dist/
+build/
